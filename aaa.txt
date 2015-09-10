@@ -1,2 +1,0 @@
-ffffff
-This is a file where a new line is being added.
